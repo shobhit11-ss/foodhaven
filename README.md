@@ -8,4 +8,4 @@ Firebase Hosting: ENABLED
 JS code goes in `functions` folder!
 ./fucntions/index.js
 
-Index and 404 pages are present in `public` folder!
+Index.html and 404.html pages are present in `public` folder.
